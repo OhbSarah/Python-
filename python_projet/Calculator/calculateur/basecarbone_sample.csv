@@ -1,0 +1,42 @@
+Identifiant de l'élément;Nom base français;Unité français;Total poste non décomposé;Nom attribut français
+21818;Avion;kgCO2e/passager.km;0.209;50-100 sièges, trajet de 2000-3000 km
+21822;Avion;kgCO2e/passager.km;0.23;100-180 sièges, trajet de 3000-4000 km
+21821;Avion;kgCO2e/passager.km;0.209;180-250 sièges, trajet de 2000-3000 km
+21819;Avion;kgCO2e/passager.km;0.314;50-100 sièges, trajet de 1000-2000 km
+21817;Avion;kgCO2e/passager.km;0.258;100-180 sièges, trajet de 1000-2000 km
+21816;Avion;kgCO2e/passager.km;0.237;100-180 sièges, trajet de 2000-3000 km
+21815;Avion;kgCO2e/passager.km;0.216;180-250 sièges, trajet de 1000-2000 km
+21814;Avion;kgCO2e/passager.km;0.23;180-250 sièges, trajet de 3000-4000 km
+21813;Avion;kgCO2e/passager.km;0.251;plus de 250 sièges, trajet de 3000-4000 km
+21770;Avion;kgCO2e/passager.km;0.314;100-180 sièges, trajet de 0-1000 km
+21771;Avion;kgCO2e/passager.km;0.293;180-250 sièges, trajet de 0-1000 km
+21781;Avion;kgCO2e/passager.km;0.293;100-180 sièges, trajet de 4000-5000 km
+21782;Avion;kgCO2e/passager.km;0.307;180-250 sièges, trajet de 4000-5000 km
+21783;Avion;kgCO2e/passager.km;0.258;plus de 250 sièges, trajet de 4000-5000 km
+21784;Avion;kgCO2e/passager.km;0.286;100-180 sièges, trajet de 5000-6000 km
+21785;Avion;kgCO2e/passager.km;0.23;180-250 sièges, trajet de 5000-6000 km
+21786;Avion;kgCO2e/passager.km;0.223;plus de 250 sièges, trajet de 5000-6000 km
+21787;Avion;kgCO2e/passager.km;0.223;180-250 sièges, trajet de 6000-7000 km
+21788;Avion;kgCO2e/passager.km;0.209;plus de 250 sièges, trajet de 6000-7000 km
+21790;Avion;kgCO2e/passager.km;0.209;plus de 250 sièges, trajet de 7000-8000 km
+21791;Avion;kgCO2e/passager.km;0.223;180-250 sièges, trajet de 8000-9000 km
+21792;Avion;kgCO2e/passager.km;0.23;plus de 250 sièges, trajet de 8000-9000 km
+21793;Avion;kgCO2e/passager.km;0.216;180-250 sièges, trajet de 9000-10000 km
+21794;Avion;kgCO2e/passager.km;0.223;plus de 250 sièges, trajet de 9000-10000 km
+21795;Avion;kgCO2e/passager.km;0.216;plus de 250 sièges, trajet de 10000-11000 km
+21796;Avion;kgCO2e/passager.km;0.223;plus de 250 sièges, trajet de > 11000 km
+21789;Avion;kgCO2e/passager.km;0.202;180-250 sièges, trajet de 7000-8000 km
+14087;Fioul domestique;kgCO2e/litre;3.25;
+15320;Gaz naturel;kgCO2e/m3;2.15;
+14225;Granulés bois;kgCO2e/kg;0.111;8% d'humidité
+21714;Métro;kgCO2e/passager.km;0.0057;
+21715;RER;kgCO2e/passager.km;0.0057;
+20682;Repas;kgCO2e/repas;2.04;moyen
+20683;Repas;kgCO2e/repas;0.51;végétarien
+21737;TGV;kgCO2e/passager.km;0.00369;
+23605;Totalité des consommations électriques en cuisine;kWh/ménage.an;486.0;consommation moyenne annuelle d'électricité
+23345;Totalité du poste audiovisuel moyenne;kWh/ménage.an;546.0;consommation moyenne annuelle d'électricité
+23359;Totalité du poste informatique moyenne;kWh/ménage.an;396.0;consommation moyenne annuelle d'électricité
+21611;Voiture particulière;kgCO2e/km;0.251;puissance fiscale moyenne, motorisation gazole
+21610;Voiture particulière;kgCO2e/km;0.259;puissance fiscale moyenne, motorisation essence
+11111;Electricité;kgCO2e/kWh;0.0571;mix moyen
