@@ -1,5 +1,5 @@
 
-Creation of two packages ss part of my training.
+Creation of two packages part of my training.
 
 One of those package is Calculator, used to calculate a user's carbon footprint based on their responses to different questions.
 
